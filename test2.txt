@@ -7,12 +7,3 @@
 566
 66
 stage 21 untracked files?
-
-destination repository
-remote
-arbitrary location
-
-transfer options
-force overwrite existing branch(may discard changes)
-use thin pack (for slow network connections)
-include tags
